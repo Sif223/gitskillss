@@ -1,1 +1,1 @@
-Creating a new branch is quick 4dd simple.
+Creating a new branch is quick simple.
